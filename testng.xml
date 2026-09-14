@@ -5,7 +5,7 @@
 <parameter name="b" value="3"/>
   <test name="Test">
     <classes>
-      <class name="org.Toyota.TestCaseScripts.CardHolder"/>
+      <class name="org.Humana.TestCaseScripts.CardHolder"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
