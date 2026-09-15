@@ -23,6 +23,7 @@ public class CardHolder extends BaseClass {
 		MyRequest myRequest = new MyRequest(properties, driver);
 		myRequest.myRequest(driver, properties);
 		cardHolderOnboarding.cardHolderOnBoarding(driver, properties);
+		System.out.println("MASTER_ONE");
 
 	}
 
